@@ -1,0 +1,2196 @@
+{
+  "cases": [
+    {
+      "id": 1,
+      "name": "Case1",
+      "stages": [
+        {
+          "id": 1,
+          "name": "Stage1"
+        },
+        {
+          "id": 2,
+          "name": "Stage2"
+        }
+      ],
+      "activeStage": {
+        "id": 1,
+        "name": "Stage1"
+      },
+      "clientId": 1
+    },
+    {
+      "id": 2,
+      "name": "Case2",
+      "stages": [
+        {
+          "id": 3,
+          "name": "Stage3"
+        },
+        {
+          "id": 4,
+          "name": "Stage4"
+        }
+      ],
+      "activeStage": {
+        "id": 4,
+        "name": "Stage4"
+      },
+      "clientId": 2
+    },
+    {
+      "id": 3,
+      "name": "Case3",
+      "stages": [
+        {
+          "id": 5,
+          "name": "Stage5"
+        },
+        {
+          "id": 6,
+          "name": "Stage6"
+        }
+      ],
+      "activeStage": {
+        "id": 6,
+        "name": "Stage6"
+      },
+      "clientId": 3
+    },
+    {
+      "id": 4,
+      "name": "Case3",
+      "stages": [
+        {
+          "id": 5,
+          "name": "Stage5"
+        },
+        {
+          "id": 6,
+          "name": "Stage6"
+        }
+      ],
+      "activeStage": {
+        "id": 6,
+        "name": "Stage6"
+      },
+      "clientId": 3
+    },
+    {
+      "id": 5,
+      "name": "Case3",
+      "stages": [
+        {
+          "id": 5,
+          "name": "Stage5"
+        },
+        {
+          "id": 6,
+          "name": "Stage6"
+        }
+      ],
+      "activeStage": {
+        "id": 6,
+        "name": "Stage6"
+      },
+      "clientId": 3
+    },
+    {
+      "id": 6,
+      "name": "Case3",
+      "stages": [
+        {
+          "id": 5,
+          "name": "Stage5"
+        },
+        {
+          "id": 6,
+          "name": "Stage6"
+        }
+      ],
+      "activeStage": {
+        "id": 6,
+        "name": "Stage6"
+      },
+      "clientId": 3
+    },
+    {
+      "id": 7,
+      "name": "Case3",
+      "stages": [
+        {
+          "id": 5,
+          "name": "Stage5"
+        },
+        {
+          "id": 6,
+          "name": "Stage6"
+        }
+      ],
+      "activeStage": {
+        "id": 6,
+        "name": "Stage6"
+      },
+      "clientId": 3
+    },
+    {
+      "id": 8,
+      "name": "Case3",
+      "stages": [
+        {
+          "id": 5,
+          "name": "Stage5"
+        },
+        {
+          "id": 6,
+          "name": "Stage6"
+        }
+      ],
+      "activeStage": {
+        "id": 6,
+        "name": "Stage6"
+      },
+      "clientId": 3
+    },
+    {
+      "id": 9,
+      "name": "Case3",
+      "stages": [
+        {
+          "id": 5,
+          "name": "Stage5"
+        },
+        {
+          "id": 6,
+          "name": "Stage6"
+        }
+      ],
+      "activeStage": {
+        "id": 6,
+        "name": "Stage6"
+      },
+      "clientId": 3
+    }
+  ],
+  "clientGroups": [
+    {
+      "id": 1,
+      "clients": [2, 3, 4, 5, 6]
+    },
+    {
+      "id": 2,
+      "clients": [2, 3, 4, 5, 6]
+    },
+    {
+      "id": 3,
+      "clients": [2, 3, 4, 5, 6]
+    }
+  ],
+  "reports": [
+    {
+      "id": 1,
+      "clientName": "Alanson",
+      "caseName": "Ludwikiewicz",
+      "reportDate": "8/26/2019",
+      "expenses": 83,
+      "totalTime": 10
+    },
+    {
+      "id": 2,
+      "clientName": "Hyacinthie",
+      "caseName": "Yeoland",
+      "reportDate": "8/1/2019",
+      "expenses": 220,
+      "totalTime": 12
+    },
+    {
+      "id": 3,
+      "clientName": "Mikael",
+      "caseName": "Gwinnett",
+      "reportDate": "8/7/2019",
+      "expenses": 69,
+      "totalTime": 9
+    },
+    {
+      "id": 4,
+      "clientName": "Bern",
+      "caseName": "Diggell",
+      "reportDate": "8/2/2019",
+      "expenses": 156,
+      "totalTime": 5
+    },
+    {
+      "id": 5,
+      "clientName": "Gretna",
+      "caseName": "Balam",
+      "reportDate": "8/7/2019",
+      "expenses": 62,
+      "totalTime": 5
+    },
+    {
+      "id": 6,
+      "clientName": "Hamlin",
+      "caseName": "Sapsed",
+      "reportDate": "7/16/2019",
+      "expenses": 211,
+      "totalTime": 3
+    },
+    {
+      "id": 7,
+      "clientName": "Shayne",
+      "caseName": "Sperwell",
+      "reportDate": "9/21/2019",
+      "expenses": 18,
+      "totalTime": 9
+    },
+    {
+      "id": 8,
+      "clientName": "Oralla",
+      "caseName": "Wye",
+      "reportDate": "8/26/2019",
+      "expenses": 75,
+      "totalTime": 11
+    },
+    {
+      "id": 9,
+      "clientName": "Arlana",
+      "caseName": "Einchcombe",
+      "reportDate": "7/13/2019",
+      "expenses": 26,
+      "totalTime": 3
+    },
+    {
+      "id": 10,
+      "clientName": "Harris",
+      "caseName": "Helliwell",
+      "reportDate": "8/22/2019",
+      "expenses": 91,
+      "totalTime": 8
+    },
+    {
+      "id": 11,
+      "clientName": "Neil",
+      "caseName": "Prahm",
+      "reportDate": "7/24/2019",
+      "expenses": 256,
+      "totalTime": 8
+    },
+    {
+      "id": 12,
+      "clientName": "Tore",
+      "caseName": "Breagan",
+      "reportDate": "7/10/2019",
+      "expenses": 6,
+      "totalTime": 3
+    },
+    {
+      "id": 13,
+      "clientName": "Annadiane",
+      "caseName": "Henrichs",
+      "reportDate": "8/19/2019",
+      "expenses": 237,
+      "totalTime": 5
+    },
+    {
+      "id": 14,
+      "clientName": "Willem",
+      "caseName": "Camillo",
+      "reportDate": "7/27/2019",
+      "expenses": 140,
+      "totalTime": 8
+    },
+    {
+      "id": 15,
+      "clientName": "Robinett",
+      "caseName": "Greengrass",
+      "reportDate": "9/3/2019",
+      "expenses": 86,
+      "totalTime": 2
+    },
+    {
+      "id": 16,
+      "clientName": "Karisa",
+      "caseName": "Chucks",
+      "reportDate": "8/22/2019",
+      "expenses": 170,
+      "totalTime": 5
+    },
+    {
+      "id": 17,
+      "clientName": "Fidel",
+      "caseName": "Sanchez",
+      "reportDate": "8/13/2019",
+      "expenses": 294,
+      "totalTime": 5
+    },
+    {
+      "id": 18,
+      "clientName": "Hurlee",
+      "caseName": "Minguet",
+      "reportDate": "9/21/2019",
+      "expenses": 177,
+      "totalTime": 4
+    },
+    {
+      "id": 19,
+      "clientName": "Leticia",
+      "caseName": "Quixley",
+      "reportDate": "7/25/2019",
+      "expenses": 261,
+      "totalTime": 6
+    },
+    {
+      "id": 20,
+      "clientName": "Brita",
+      "caseName": "Gaskoin",
+      "reportDate": "8/21/2019",
+      "expenses": 117,
+      "totalTime": 1
+    },
+    {
+      "id": 21,
+      "clientName": "Burnard",
+      "caseName": "Bruineman",
+      "reportDate": "9/26/2019",
+      "expenses": 88,
+      "totalTime": 4
+    },
+    {
+      "id": 22,
+      "clientName": "Farleigh",
+      "caseName": "Laverty",
+      "reportDate": "7/9/2019",
+      "expenses": 129,
+      "totalTime": 4
+    },
+    {
+      "id": 23,
+      "clientName": "Feliza",
+      "caseName": "Ratledge",
+      "reportDate": "7/7/2019",
+      "expenses": 7,
+      "totalTime": 4
+    },
+    {
+      "id": 24,
+      "clientName": "Elisha",
+      "caseName": "Warratt",
+      "reportDate": "7/26/2019",
+      "expenses": 124,
+      "totalTime": 11
+    },
+    {
+      "id": 25,
+      "clientName": "Lynsey",
+      "caseName": "Crichmer",
+      "reportDate": "8/3/2019",
+      "expenses": 45,
+      "totalTime": 11
+    },
+    {
+      "id": 26,
+      "clientName": "Yolanda",
+      "caseName": "Kopman",
+      "reportDate": "7/23/2019",
+      "expenses": 245,
+      "totalTime": 1
+    },
+    {
+      "id": 27,
+      "clientName": "Chrotoem",
+      "caseName": "Ney",
+      "reportDate": "9/12/2019",
+      "expenses": 201,
+      "totalTime": 13
+    },
+    {
+      "id": 28,
+      "clientName": "Carmelle",
+      "caseName": "Peter",
+      "reportDate": "8/2/2019",
+      "expenses": 70,
+      "totalTime": 12
+    },
+    {
+      "id": 29,
+      "clientName": "Mimi",
+      "caseName": "Tilley",
+      "reportDate": "7/7/2019",
+      "expenses": 240,
+      "totalTime": 1
+    },
+    {
+      "id": 30,
+      "clientName": "Vito",
+      "caseName": "Ballinghall",
+      "reportDate": "9/14/2019",
+      "expenses": 92,
+      "totalTime": 12
+    },
+    {
+      "id": 31,
+      "clientName": "Chrysler",
+      "caseName": "Fernie",
+      "reportDate": "8/18/2019",
+      "expenses": 262,
+      "totalTime": 2
+    },
+    {
+      "id": 32,
+      "clientName": "Gwyn",
+      "caseName": "Benzing",
+      "reportDate": "8/25/2019",
+      "expenses": 168,
+      "totalTime": 6
+    },
+    {
+      "id": 33,
+      "clientName": "Merola",
+      "caseName": "Gerred",
+      "reportDate": "8/28/2019",
+      "expenses": 31,
+      "totalTime": 8
+    },
+    {
+      "id": 34,
+      "clientName": "Quinlan",
+      "caseName": "Riggott",
+      "reportDate": "7/18/2019",
+      "expenses": 260,
+      "totalTime": 2
+    },
+    {
+      "id": 35,
+      "clientName": "Ogdon",
+      "caseName": "Chatin",
+      "reportDate": "9/15/2019",
+      "expenses": 48,
+      "totalTime": 9
+    },
+    {
+      "id": 36,
+      "clientName": "Karlyn",
+      "caseName": "Frowing",
+      "reportDate": "9/18/2019",
+      "expenses": 270,
+      "totalTime": 10
+    },
+    {
+      "id": 37,
+      "clientName": "Cordell",
+      "caseName": "Bartlet",
+      "reportDate": "9/15/2019",
+      "expenses": 175,
+      "totalTime": 6
+    },
+    {
+      "id": 38,
+      "clientName": "Wadsworth",
+      "caseName": "Colloff",
+      "reportDate": "7/1/2019",
+      "expenses": 161,
+      "totalTime": 13
+    },
+    {
+      "id": 39,
+      "clientName": "Caressa",
+      "caseName": "Rigate",
+      "reportDate": "9/23/2019",
+      "expenses": 10,
+      "totalTime": 13
+    },
+    {
+      "id": 40,
+      "clientName": "Isis",
+      "caseName": "Moran",
+      "reportDate": "8/24/2019",
+      "expenses": 212,
+      "totalTime": 1
+    },
+    {
+      "id": 41,
+      "clientName": "Kleon",
+      "caseName": "Pre",
+      "reportDate": "9/25/2019",
+      "expenses": 17,
+      "totalTime": 3
+    },
+    {
+      "id": 42,
+      "clientName": "Corbett",
+      "caseName": "MacMarcuis",
+      "reportDate": "7/4/2019",
+      "expenses": 236,
+      "totalTime": 9
+    },
+    {
+      "id": 43,
+      "clientName": "Celestina",
+      "caseName": "Biagini",
+      "reportDate": "7/12/2019",
+      "expenses": 119,
+      "totalTime": 11
+    },
+    {
+      "id": 44,
+      "clientName": "Blithe",
+      "caseName": "Dallimore",
+      "reportDate": "7/2/2019",
+      "expenses": 143,
+      "totalTime": 3
+    },
+    {
+      "id": 45,
+      "clientName": "Bekki",
+      "caseName": "Georgiev",
+      "reportDate": "7/2/2019",
+      "expenses": 221,
+      "totalTime": 12
+    },
+    {
+      "id": 46,
+      "clientName": "Darice",
+      "caseName": "Rann",
+      "reportDate": "7/15/2019",
+      "expenses": 188,
+      "totalTime": 3
+    },
+    {
+      "id": 47,
+      "clientName": "Janice",
+      "caseName": "Croson",
+      "reportDate": "9/13/2019",
+      "expenses": 86,
+      "totalTime": 4
+    },
+    {
+      "id": 48,
+      "clientName": "Elene",
+      "caseName": "Freckleton",
+      "reportDate": "8/8/2019",
+      "expenses": 30,
+      "totalTime": 4
+    },
+    {
+      "id": 49,
+      "clientName": "Emmalee",
+      "caseName": "Dibdall",
+      "reportDate": "9/26/2019",
+      "expenses": 273,
+      "totalTime": 6
+    },
+    {
+      "id": 50,
+      "clientName": "Tiffy",
+      "caseName": "MacDwyer",
+      "reportDate": "9/12/2019",
+      "expenses": 152,
+      "totalTime": 11
+    },
+    {
+      "id": 51,
+      "clientName": "Daryl",
+      "caseName": "Veasey",
+      "reportDate": "8/9/2019",
+      "expenses": 248,
+      "totalTime": 1
+    },
+    {
+      "id": 52,
+      "clientName": "Kassia",
+      "caseName": "Delaney",
+      "reportDate": "9/12/2019",
+      "expenses": 28,
+      "totalTime": 4
+    },
+    {
+      "id": 53,
+      "clientName": "Percival",
+      "caseName": "Edwins",
+      "reportDate": "7/27/2019",
+      "expenses": 99,
+      "totalTime": 12
+    },
+    {
+      "id": 54,
+      "clientName": "Alistair",
+      "caseName": "Owens",
+      "reportDate": "7/23/2019",
+      "expenses": 144,
+      "totalTime": 5
+    },
+    {
+      "id": 55,
+      "clientName": "Myles",
+      "caseName": "Quinnette",
+      "reportDate": "9/23/2019",
+      "expenses": 64,
+      "totalTime": 11
+    },
+    {
+      "id": 56,
+      "clientName": "Adda",
+      "caseName": "Ness",
+      "reportDate": "9/10/2019",
+      "expenses": 240,
+      "totalTime": 4
+    },
+    {
+      "id": 57,
+      "clientName": "Wye",
+      "caseName": "Rainbird",
+      "reportDate": "7/31/2019",
+      "expenses": 158,
+      "totalTime": 12
+    },
+    {
+      "id": 58,
+      "clientName": "Cherida",
+      "caseName": "Swainger",
+      "reportDate": "7/28/2019",
+      "expenses": 72,
+      "totalTime": 7
+    },
+    {
+      "id": 59,
+      "clientName": "Rebecka",
+      "caseName": "Greener",
+      "reportDate": "7/9/2019",
+      "expenses": 39,
+      "totalTime": 7
+    },
+    {
+      "id": 60,
+      "clientName": "Hobard",
+      "caseName": "Stegell",
+      "reportDate": "7/11/2019",
+      "expenses": 59,
+      "totalTime": 9
+    },
+    {
+      "id": 61,
+      "clientName": "Nicki",
+      "caseName": "Kaser",
+      "reportDate": "8/2/2019",
+      "expenses": 274,
+      "totalTime": 11
+    },
+    {
+      "id": 62,
+      "clientName": "Joyan",
+      "caseName": "Trevers",
+      "reportDate": "9/6/2019",
+      "expenses": 282,
+      "totalTime": 13
+    },
+    {
+      "id": 63,
+      "clientName": "Carney",
+      "caseName": "Semon",
+      "reportDate": "7/22/2019",
+      "expenses": 134,
+      "totalTime": 2
+    },
+    {
+      "id": 64,
+      "clientName": "Jerad",
+      "caseName": "Dottridge",
+      "reportDate": "9/14/2019",
+      "expenses": 39,
+      "totalTime": 1
+    },
+    {
+      "id": 65,
+      "clientName": "Lorin",
+      "caseName": "Emmett",
+      "reportDate": "7/31/2019",
+      "expenses": 25,
+      "totalTime": 7
+    },
+    {
+      "id": 66,
+      "clientName": "Reginauld",
+      "caseName": "Laise",
+      "reportDate": "8/7/2019",
+      "expenses": 57,
+      "totalTime": 9
+    },
+    {
+      "id": 67,
+      "clientName": "Letty",
+      "caseName": "Lodeke",
+      "reportDate": "7/8/2019",
+      "expenses": 292,
+      "totalTime": 4
+    },
+    {
+      "id": 68,
+      "clientName": "Tybie",
+      "caseName": "Djorevic",
+      "reportDate": "8/29/2019",
+      "expenses": 205,
+      "totalTime": 3
+    },
+    {
+      "id": 69,
+      "clientName": "Gabbey",
+      "caseName": "O' Finan",
+      "reportDate": "8/8/2019",
+      "expenses": 76,
+      "totalTime": 9
+    },
+    {
+      "id": 70,
+      "clientName": "Fianna",
+      "caseName": "Shakesby",
+      "reportDate": "9/21/2019",
+      "expenses": 246,
+      "totalTime": 9
+    },
+    {
+      "id": 71,
+      "clientName": "Johny",
+      "caseName": "Urling",
+      "reportDate": "8/31/2019",
+      "expenses": 221,
+      "totalTime": 10
+    },
+    {
+      "id": 72,
+      "clientName": "Hazlett",
+      "caseName": "Blesdill",
+      "reportDate": "7/21/2019",
+      "expenses": 185,
+      "totalTime": 7
+    },
+    {
+      "id": 73,
+      "clientName": "Sarene",
+      "caseName": "Gierhard",
+      "reportDate": "8/21/2019",
+      "expenses": 184,
+      "totalTime": 4
+    },
+    {
+      "id": 74,
+      "clientName": "Kristoffer",
+      "caseName": "Tompsett",
+      "reportDate": "7/11/2019",
+      "expenses": 236,
+      "totalTime": 11
+    },
+    {
+      "id": 75,
+      "clientName": "Vicky",
+      "caseName": "Breffit",
+      "reportDate": "8/7/2019",
+      "expenses": 21,
+      "totalTime": 7
+    },
+    {
+      "id": 76,
+      "clientName": "Juliane",
+      "caseName": "Caldecutt",
+      "reportDate": "7/23/2019",
+      "expenses": 68,
+      "totalTime": 11
+    },
+    {
+      "id": 77,
+      "clientName": "Lesli",
+      "caseName": "Monteaux",
+      "reportDate": "7/26/2019",
+      "expenses": 273,
+      "totalTime": 2
+    },
+    {
+      "id": 78,
+      "clientName": "Emmott",
+      "caseName": "Letherbury",
+      "reportDate": "7/21/2019",
+      "expenses": 249,
+      "totalTime": 4
+    },
+    {
+      "id": 79,
+      "clientName": "Gunar",
+      "caseName": "Trotton",
+      "reportDate": "7/9/2019",
+      "expenses": 299,
+      "totalTime": 7
+    },
+    {
+      "id": 80,
+      "clientName": "Willyt",
+      "caseName": "Berryann",
+      "reportDate": "7/12/2019",
+      "expenses": 43,
+      "totalTime": 8
+    },
+    {
+      "id": 81,
+      "clientName": "Merralee",
+      "caseName": "Giuroni",
+      "reportDate": "7/27/2019",
+      "expenses": 262,
+      "totalTime": 10
+    },
+    {
+      "id": 82,
+      "clientName": "Gayelord",
+      "caseName": "Brierton",
+      "reportDate": "7/23/2019",
+      "expenses": 129,
+      "totalTime": 12
+    },
+    {
+      "id": 83,
+      "clientName": "Toma",
+      "caseName": "Schwaiger",
+      "reportDate": "9/12/2019",
+      "expenses": 223,
+      "totalTime": 1
+    },
+    {
+      "id": 84,
+      "clientName": "Darcie",
+      "caseName": "Josland",
+      "reportDate": "9/6/2019",
+      "expenses": 44,
+      "totalTime": 4
+    },
+    {
+      "id": 85,
+      "clientName": "Joseph",
+      "caseName": "Bhatia",
+      "reportDate": "8/17/2019",
+      "expenses": 177,
+      "totalTime": 7
+    },
+    {
+      "id": 86,
+      "clientName": "Tabby",
+      "caseName": "Chaldecott",
+      "reportDate": "7/13/2019",
+      "expenses": 144,
+      "totalTime": 10
+    },
+    {
+      "id": 87,
+      "clientName": "Jena",
+      "caseName": "Jerdein",
+      "reportDate": "9/1/2019",
+      "expenses": 79,
+      "totalTime": 13
+    },
+    {
+      "id": 88,
+      "clientName": "Orelie",
+      "caseName": "Howie",
+      "reportDate": "9/29/2019",
+      "expenses": 77,
+      "totalTime": 9
+    },
+    {
+      "id": 89,
+      "clientName": "Kenn",
+      "caseName": "Barneveld",
+      "reportDate": "8/6/2019",
+      "expenses": 94,
+      "totalTime": 8
+    },
+    {
+      "id": 90,
+      "clientName": "Mauricio",
+      "caseName": "Mapplebeck",
+      "reportDate": "7/11/2019",
+      "expenses": 8,
+      "totalTime": 12
+    },
+    {
+      "id": 91,
+      "clientName": "Lenora",
+      "caseName": "Prestner",
+      "reportDate": "8/14/2019",
+      "expenses": 171,
+      "totalTime": 10
+    },
+    {
+      "id": 92,
+      "clientName": "Lotty",
+      "caseName": "Whiterod",
+      "reportDate": "8/16/2019",
+      "expenses": 96,
+      "totalTime": 4
+    },
+    {
+      "id": 93,
+      "clientName": "Matelda",
+      "caseName": "Grimme",
+      "reportDate": "8/28/2019",
+      "expenses": 38,
+      "totalTime": 11
+    },
+    {
+      "id": 94,
+      "clientName": "Barbie",
+      "caseName": "Reis",
+      "reportDate": "8/13/2019",
+      "expenses": 101,
+      "totalTime": 12
+    },
+    {
+      "id": 95,
+      "clientName": "Dorisa",
+      "caseName": "Stokell",
+      "reportDate": "9/9/2019",
+      "expenses": 299,
+      "totalTime": 3
+    },
+    {
+      "id": 96,
+      "clientName": "Diahann",
+      "caseName": "Packer",
+      "reportDate": "7/29/2019",
+      "expenses": 150,
+      "totalTime": 4
+    },
+    {
+      "id": 97,
+      "clientName": "Loleta",
+      "caseName": "Gawkes",
+      "reportDate": "9/27/2019",
+      "expenses": 48,
+      "totalTime": 10
+    },
+    {
+      "id": 98,
+      "clientName": "Clemente",
+      "caseName": "Winterson",
+      "reportDate": "8/29/2019",
+      "expenses": 31,
+      "totalTime": 2,
+      "reportStatus": "locked"
+    },
+    {
+      "id": 99,
+      "clientName": "Frazier",
+      "caseName": "Lerven",
+      "reportDate": "9/5/2019",
+      "expenses": 258,
+      "totalTime": 3
+    },
+    {
+      "id": 100,
+      "clientName": "Rita",
+      "caseName": "Bagg",
+      "reportDate": "8/29/2019",
+      "expenses": 26,
+      "totalTime": 12
+    },
+    {
+      "id": 101,
+      "clientName": "Fernande",
+      "caseName": "Webbe",
+      "reportDate": "8/6/2019",
+      "expenses": 22,
+      "totalTime": 7
+    },
+    {
+      "id": 102,
+      "clientName": "Dinah",
+      "caseName": "Lubbock",
+      "reportDate": "8/24/2019",
+      "expenses": 182,
+      "totalTime": 2
+    },
+    {
+      "id": 103,
+      "clientName": "Ginger",
+      "caseName": "Fullylove",
+      "reportDate": "7/13/2019",
+      "expenses": 191,
+      "totalTime": 6
+    },
+    {
+      "id": 104,
+      "clientName": "Waiter",
+      "caseName": "Epsly",
+      "reportDate": "9/4/2019",
+      "expenses": 116,
+      "totalTime": 11
+    },
+    {
+      "id": 105,
+      "clientName": "Sayre",
+      "caseName": "Surgen",
+      "reportDate": "9/1/2019",
+      "expenses": 159,
+      "totalTime": 4
+    },
+    {
+      "id": 106,
+      "clientName": "Catlee",
+      "caseName": "Schwier",
+      "reportDate": "9/17/2019",
+      "expenses": 296,
+      "totalTime": 13
+    },
+    {
+      "id": 107,
+      "clientName": "Ximenes",
+      "caseName": "Norwich",
+      "reportDate": "7/28/2019",
+      "expenses": 245,
+      "totalTime": 10
+    },
+    {
+      "id": 108,
+      "clientName": "Stanfield",
+      "caseName": "Witsey",
+      "reportDate": "8/23/2019",
+      "expenses": 33,
+      "totalTime": 5
+    },
+    {
+      "id": 109,
+      "clientName": "Gayle",
+      "caseName": "Conti",
+      "reportDate": "7/24/2019",
+      "expenses": 101,
+      "totalTime": 2
+    },
+    {
+      "id": 110,
+      "clientName": "Tomi",
+      "caseName": "Klaaassen",
+      "reportDate": "9/5/2019",
+      "expenses": 158,
+      "totalTime": 12
+    },
+    {
+      "id": 111,
+      "clientName": "Gardie",
+      "caseName": "Thulborn",
+      "reportDate": "9/29/2019",
+      "expenses": 233,
+      "totalTime": 6
+    },
+    {
+      "id": 112,
+      "clientName": "Adiana",
+      "caseName": "Golt",
+      "reportDate": "8/15/2019",
+      "expenses": 237,
+      "totalTime": 6
+    },
+    {
+      "id": 113,
+      "clientName": "Hanson",
+      "caseName": "Tidey",
+      "reportDate": "8/5/2019",
+      "expenses": 105,
+      "totalTime": 3
+    },
+    {
+      "id": 114,
+      "clientName": "Kally",
+      "caseName": "Larraway",
+      "reportDate": "8/25/2019",
+      "expenses": 293,
+      "totalTime": 12
+    },
+    {
+      "id": 115,
+      "clientName": "Viva",
+      "caseName": "Bockmann",
+      "reportDate": "8/1/2019",
+      "expenses": 136,
+      "totalTime": 8
+    },
+    {
+      "id": 116,
+      "clientName": "Corbet",
+      "caseName": "Skip",
+      "reportDate": "9/22/2019",
+      "expenses": 83,
+      "totalTime": 11
+    },
+    {
+      "id": 117,
+      "clientName": "Elyssa",
+      "caseName": "Barnard",
+      "reportDate": "7/28/2019",
+      "expenses": 41,
+      "totalTime": 7
+    },
+    {
+      "id": 118,
+      "clientName": "Giffy",
+      "caseName": "Muskett",
+      "reportDate": "9/2/2019",
+      "expenses": 65,
+      "totalTime": 7
+    },
+    {
+      "id": 119,
+      "clientName": "Bruno",
+      "caseName": "Thowless",
+      "reportDate": "8/13/2019",
+      "expenses": 164,
+      "totalTime": 7
+    },
+    {
+      "id": 120,
+      "clientName": "Darlleen",
+      "caseName": "Newns",
+      "reportDate": "7/21/2019",
+      "expenses": 221,
+      "totalTime": 13
+    },
+    {
+      "id": 121,
+      "clientName": "Moses",
+      "caseName": "Liddell",
+      "reportDate": "9/22/2019",
+      "expenses": 158,
+      "totalTime": 7
+    },
+    {
+      "id": 122,
+      "clientName": "Zena",
+      "caseName": "Brokenshire",
+      "reportDate": "8/14/2019",
+      "expenses": 256,
+      "totalTime": 3
+    },
+    {
+      "id": 123,
+      "clientName": "Harri",
+      "caseName": "Weal",
+      "reportDate": "8/4/2019",
+      "expenses": 290,
+      "totalTime": 8
+    },
+    {
+      "id": 124,
+      "clientName": "Van",
+      "caseName": "Tinner",
+      "reportDate": "7/10/2019",
+      "expenses": 186,
+      "totalTime": 5
+    },
+    {
+      "id": 125,
+      "clientName": "Aeriel",
+      "caseName": "Rosander",
+      "reportDate": "7/29/2019",
+      "expenses": 172,
+      "totalTime": 10
+    },
+    {
+      "id": 126,
+      "clientName": "Ky",
+      "caseName": "Ruckhard",
+      "reportDate": "8/13/2019",
+      "expenses": 133,
+      "totalTime": 9
+    },
+    {
+      "id": 127,
+      "clientName": "Erma",
+      "caseName": "Critchell",
+      "reportDate": "7/2/2019",
+      "expenses": 296,
+      "totalTime": 3
+    },
+    {
+      "id": 128,
+      "clientName": "Lyndy",
+      "caseName": "Murdy",
+      "reportDate": "7/18/2019",
+      "expenses": 147,
+      "totalTime": 13
+    },
+    {
+      "id": 129,
+      "clientName": "Marcie",
+      "caseName": "Brazener",
+      "reportDate": "9/24/2019",
+      "expenses": 165,
+      "totalTime": 9
+    },
+    {
+      "id": 130,
+      "clientName": "Blayne",
+      "caseName": "Gorriessen",
+      "reportDate": "9/26/2019",
+      "expenses": 173,
+      "totalTime": 4
+    },
+    {
+      "id": 131,
+      "clientName": "Beckie",
+      "caseName": "Odde",
+      "reportDate": "9/2/2019",
+      "expenses": 54,
+      "totalTime": 5
+    },
+    {
+      "id": 132,
+      "clientName": "Susy",
+      "caseName": "Havile",
+      "reportDate": "9/29/2019",
+      "expenses": 91,
+      "totalTime": 3
+    },
+    {
+      "id": 133,
+      "clientName": "Peirce",
+      "caseName": "Bangley",
+      "reportDate": "9/3/2019",
+      "expenses": 189,
+      "totalTime": 2
+    },
+    {
+      "id": 134,
+      "clientName": "Ryan",
+      "caseName": "Brave",
+      "reportDate": "9/19/2019",
+      "expenses": 289,
+      "totalTime": 3
+    },
+    {
+      "id": 135,
+      "clientName": "Stafford",
+      "caseName": "Szepe",
+      "reportDate": "9/12/2019",
+      "expenses": 250,
+      "totalTime": 13
+    },
+    {
+      "id": 136,
+      "clientName": "Analiese",
+      "caseName": "Gerssam",
+      "reportDate": "7/3/2019",
+      "expenses": 222,
+      "totalTime": 13
+    },
+    {
+      "id": 137,
+      "clientName": "Tabor",
+      "caseName": "Thrasher",
+      "reportDate": "7/5/2019",
+      "expenses": 283,
+      "totalTime": 5
+    },
+    {
+      "id": 138,
+      "clientName": "Fawne",
+      "caseName": "Farfoot",
+      "reportDate": "8/26/2019",
+      "expenses": 37,
+      "totalTime": 3
+    },
+    {
+      "id": 139,
+      "clientName": "Kathe",
+      "caseName": "Maunder",
+      "reportDate": "7/4/2019",
+      "expenses": 106,
+      "totalTime": 9
+    },
+    {
+      "id": 140,
+      "clientName": "Cecilius",
+      "caseName": "Whimper",
+      "reportDate": "9/22/2019",
+      "expenses": 106,
+      "totalTime": 5
+    },
+    {
+      "id": 141,
+      "clientName": "Deana",
+      "caseName": "Towl",
+      "reportDate": "9/13/2019",
+      "expenses": 85,
+      "totalTime": 7
+    },
+    {
+      "id": 142,
+      "clientName": "Nessa",
+      "caseName": "Upstell",
+      "reportDate": "9/7/2019",
+      "expenses": 294,
+      "totalTime": 5
+    },
+    {
+      "id": 143,
+      "clientName": "Gabbie",
+      "caseName": "Yter",
+      "reportDate": "9/16/2019",
+      "expenses": 291,
+      "totalTime": 5
+    },
+    {
+      "id": 144,
+      "clientName": "Ivar",
+      "caseName": "Admans",
+      "reportDate": "7/13/2019",
+      "expenses": 29,
+      "totalTime": 3
+    },
+    {
+      "id": 145,
+      "clientName": "Calida",
+      "caseName": "Olenchenko",
+      "reportDate": "7/10/2019",
+      "expenses": 300,
+      "totalTime": 6
+    },
+    {
+      "id": 146,
+      "clientName": "Gene",
+      "caseName": "Ciotto",
+      "reportDate": "9/20/2019",
+      "expenses": 103,
+      "totalTime": 11
+    },
+    {
+      "id": 147,
+      "clientName": "Cecilia",
+      "caseName": "Gerb",
+      "reportDate": "7/5/2019",
+      "expenses": 113,
+      "totalTime": 9
+    },
+    {
+      "id": 148,
+      "clientName": "Adrian",
+      "caseName": "Caveill",
+      "reportDate": "7/29/2019",
+      "expenses": 59,
+      "totalTime": 4
+    },
+    {
+      "id": 149,
+      "clientName": "Brion",
+      "caseName": "Forsythe",
+      "reportDate": "7/4/2019",
+      "expenses": 110,
+      "totalTime": 2
+    },
+    {
+      "id": 150,
+      "clientName": "Tracy",
+      "caseName": "Rehme",
+      "reportDate": "9/16/2019",
+      "expenses": 236,
+      "totalTime": 10
+    },
+    {
+      "id": 151,
+      "clientName": "Kirby",
+      "caseName": "Lazar",
+      "reportDate": "9/2/2019",
+      "expenses": 152,
+      "totalTime": 1
+    },
+    {
+      "id": 152,
+      "clientName": "Husein",
+      "caseName": "Allder",
+      "reportDate": "8/4/2019",
+      "expenses": 15,
+      "totalTime": 12
+    },
+    {
+      "id": 153,
+      "clientName": "Arthur",
+      "caseName": "O'Concannon",
+      "reportDate": "8/25/2019",
+      "expenses": 148,
+      "totalTime": 6
+    },
+    {
+      "id": 154,
+      "clientName": "Harrison",
+      "caseName": "Rosi",
+      "reportDate": "8/31/2019",
+      "expenses": 51,
+      "totalTime": 8
+    },
+    {
+      "id": 155,
+      "clientName": "Alric",
+      "caseName": "Graddon",
+      "reportDate": "7/16/2019",
+      "expenses": 60,
+      "totalTime": 8
+    },
+    {
+      "id": 156,
+      "clientName": "Cherey",
+      "caseName": "Ashmore",
+      "reportDate": "8/25/2019",
+      "expenses": 2,
+      "totalTime": 10
+    },
+    {
+      "id": 157,
+      "clientName": "Babbette",
+      "caseName": "Shutte",
+      "reportDate": "8/6/2019",
+      "expenses": 271,
+      "totalTime": 5
+    },
+    {
+      "id": 158,
+      "clientName": "Rhodia",
+      "caseName": "Sandercock",
+      "reportDate": "8/28/2019",
+      "expenses": 81,
+      "totalTime": 3
+    },
+    {
+      "id": 159,
+      "clientName": "Jess",
+      "caseName": "Rolfini",
+      "reportDate": "9/20/2019",
+      "expenses": 37,
+      "totalTime": 4
+    },
+    {
+      "id": 160,
+      "clientName": "Thadeus",
+      "caseName": "Syseland",
+      "reportDate": "9/28/2019",
+      "expenses": 175,
+      "totalTime": 7
+    },
+    {
+      "id": 161,
+      "clientName": "Egbert",
+      "caseName": "Iacomini",
+      "reportDate": "7/16/2019",
+      "expenses": 202,
+      "totalTime": 1
+    },
+    {
+      "id": 162,
+      "clientName": "Buffy",
+      "caseName": "Izkoveski",
+      "reportDate": "7/5/2019",
+      "expenses": 84,
+      "totalTime": 11
+    },
+    {
+      "id": 163,
+      "clientName": "Elinore",
+      "caseName": "Von Helmholtz",
+      "reportDate": "8/29/2019",
+      "expenses": 85,
+      "totalTime": 11
+    },
+    {
+      "id": 164,
+      "clientName": "Brantley",
+      "caseName": "Moyler",
+      "reportDate": "8/14/2019",
+      "expenses": 234,
+      "totalTime": 9
+    },
+    {
+      "id": 165,
+      "clientName": "Armando",
+      "caseName": "Gauson",
+      "reportDate": "9/21/2019",
+      "expenses": 52,
+      "totalTime": 4
+    },
+    {
+      "id": 166,
+      "clientName": "Artemus",
+      "caseName": "Hannen",
+      "reportDate": "9/7/2019",
+      "expenses": 276,
+      "totalTime": 11
+    },
+    {
+      "id": 167,
+      "clientName": "Gordon",
+      "caseName": "Surgeon",
+      "reportDate": "9/26/2019",
+      "expenses": 195,
+      "totalTime": 5
+    },
+    {
+      "id": 168,
+      "clientName": "Dickie",
+      "caseName": "Dorkins",
+      "reportDate": "7/17/2019",
+      "expenses": 161,
+      "totalTime": 2
+    },
+    {
+      "id": 169,
+      "clientName": "Koral",
+      "caseName": "Presdie",
+      "reportDate": "8/12/2019",
+      "expenses": 158,
+      "totalTime": 12
+    },
+    {
+      "id": 170,
+      "clientName": "Barbey",
+      "caseName": "MacMechan",
+      "reportDate": "8/27/2019",
+      "expenses": 41,
+      "totalTime": 6
+    },
+    {
+      "id": 171,
+      "clientName": "Normy",
+      "caseName": "Dimanche",
+      "reportDate": "8/21/2019",
+      "expenses": 289,
+      "totalTime": 2
+    },
+    {
+      "id": 172,
+      "clientName": "Jarvis",
+      "caseName": "Dawks",
+      "reportDate": "8/10/2019",
+      "expenses": 194,
+      "totalTime": 3
+    },
+    {
+      "id": 173,
+      "clientName": "Irena",
+      "caseName": "McGreal",
+      "reportDate": "7/4/2019",
+      "expenses": 135,
+      "totalTime": 9
+    },
+    {
+      "id": 174,
+      "clientName": "Dede",
+      "caseName": "Guyot",
+      "reportDate": "7/15/2019",
+      "expenses": 228,
+      "totalTime": 3
+    },
+    {
+      "id": 175,
+      "clientName": "Gayel",
+      "caseName": "Freegard",
+      "reportDate": "8/19/2019",
+      "expenses": 283,
+      "totalTime": 2
+    },
+    {
+      "id": 176,
+      "clientName": "Martelle",
+      "caseName": "Merryweather",
+      "reportDate": "7/18/2019",
+      "expenses": 105,
+      "totalTime": 5
+    },
+    {
+      "id": 177,
+      "clientName": "Tallulah",
+      "caseName": "Guillotin",
+      "reportDate": "9/16/2019",
+      "expenses": 71,
+      "totalTime": 11
+    },
+    {
+      "id": 178,
+      "clientName": "Aylmar",
+      "caseName": "Langstone",
+      "reportDate": "8/30/2019",
+      "expenses": 73,
+      "totalTime": 2
+    },
+    {
+      "id": 179,
+      "clientName": "Osbourn",
+      "caseName": "Tredget",
+      "reportDate": "7/28/2019",
+      "expenses": 175,
+      "totalTime": 1
+    },
+    {
+      "id": 180,
+      "clientName": "Josias",
+      "caseName": "Densun",
+      "reportDate": "9/29/2019",
+      "expenses": 199,
+      "totalTime": 8
+    },
+    {
+      "id": 181,
+      "clientName": "Sissy",
+      "caseName": "Sissons",
+      "reportDate": "8/9/2019",
+      "expenses": 229,
+      "totalTime": 13
+    },
+    {
+      "id": 182,
+      "clientName": "Sal",
+      "caseName": "Cranny",
+      "reportDate": "7/6/2019",
+      "expenses": 58,
+      "totalTime": 7
+    },
+    {
+      "id": 183,
+      "clientName": "Town",
+      "caseName": "Daniels",
+      "reportDate": "8/12/2019",
+      "expenses": 19,
+      "totalTime": 4
+    },
+    {
+      "id": 184,
+      "clientName": "Lavina",
+      "caseName": "Serjeantson",
+      "reportDate": "8/28/2019",
+      "expenses": 239,
+      "totalTime": 12
+    },
+    {
+      "id": 185,
+      "clientName": "Zack",
+      "caseName": "Ellens",
+      "reportDate": "8/3/2019",
+      "expenses": 114,
+      "totalTime": 10
+    },
+    {
+      "id": 186,
+      "clientName": "Ava",
+      "caseName": "Drable",
+      "reportDate": "9/19/2019",
+      "expenses": 250,
+      "totalTime": 6
+    },
+    {
+      "id": 187,
+      "clientName": "Amalea",
+      "caseName": "Mosdill",
+      "reportDate": "9/24/2019",
+      "expenses": 57,
+      "totalTime": 12
+    },
+    {
+      "id": 188,
+      "clientName": "Tommie",
+      "caseName": "Fortescue",
+      "reportDate": "9/11/2019",
+      "expenses": 40,
+      "totalTime": 13
+    },
+    {
+      "id": 189,
+      "clientName": "Meggi",
+      "caseName": "Davley",
+      "reportDate": "8/17/2019",
+      "expenses": 164,
+      "totalTime": 9
+    },
+    {
+      "id": 190,
+      "clientName": "Filippa",
+      "caseName": "Tooby",
+      "reportDate": "8/2/2019",
+      "expenses": 20,
+      "totalTime": 12
+    },
+    {
+      "id": 191,
+      "clientName": "Germain",
+      "caseName": "Gheraldi",
+      "reportDate": "7/13/2019",
+      "expenses": 244,
+      "totalTime": 3
+    },
+    {
+      "id": 192,
+      "clientName": "Truman",
+      "caseName": "Jumel",
+      "reportDate": "7/21/2019",
+      "expenses": 63,
+      "totalTime": 11
+    },
+    {
+      "id": 193,
+      "clientName": "Annadiane",
+      "caseName": "Coley",
+      "reportDate": "7/31/2019",
+      "expenses": 40,
+      "totalTime": 4
+    },
+    {
+      "id": 194,
+      "clientName": "Gawain",
+      "caseName": "MacIllrick",
+      "reportDate": "8/4/2019",
+      "expenses": 56,
+      "totalTime": 5
+    },
+    {
+      "id": 195,
+      "clientName": "Mallorie",
+      "caseName": "Ferson",
+      "reportDate": "7/13/2019",
+      "expenses": 54,
+      "totalTime": 11
+    },
+    {
+      "id": 196,
+      "clientName": "Jessie",
+      "caseName": "Harry",
+      "reportDate": "7/17/2019",
+      "expenses": 29,
+      "totalTime": 7
+    },
+    {
+      "id": 197,
+      "clientName": "Gill",
+      "caseName": "Tankard",
+      "reportDate": "7/12/2019",
+      "expenses": 244,
+      "totalTime": 11
+    },
+    {
+      "id": 198,
+      "clientName": "Leigh",
+      "caseName": "Dionsetto",
+      "reportDate": "9/1/2019",
+      "expenses": 57,
+      "totalTime": 6
+    },
+    {
+      "id": 199,
+      "clientName": "Zandra",
+      "caseName": "O'Geaney",
+      "reportDate": "7/20/2019",
+      "expenses": 75,
+      "totalTime": 13
+    },
+    {
+      "id": 200,
+      "clientName": "Euphemia",
+      "caseName": "Featenby",
+      "reportDate": "8/8/2019",
+      "expenses": 121,
+      "totalTime": 10
+    },
+    {
+      "id": 201,
+      "clientName": "Vinni",
+      "caseName": "Obell",
+      "reportDate": "8/28/2019",
+      "expenses": 277,
+      "totalTime": 11
+    },
+    {
+      "id": 202,
+      "clientName": "Mada",
+      "caseName": "Harbottle",
+      "reportDate": "7/28/2019",
+      "expenses": 237,
+      "totalTime": 3
+    },
+    {
+      "id": 203,
+      "clientName": "Cathie",
+      "caseName": "Brabbs",
+      "reportDate": "7/10/2019",
+      "expenses": 270,
+      "totalTime": 8
+    },
+    {
+      "id": 204,
+      "clientName": "Chane",
+      "caseName": "Lecount",
+      "reportDate": "9/9/2019",
+      "expenses": 23,
+      "totalTime": 10
+    },
+    {
+      "id": 205,
+      "clientName": "Laird",
+      "caseName": "Postins",
+      "reportDate": "7/7/2019",
+      "expenses": 108,
+      "totalTime": 9
+    },
+    {
+      "id": 206,
+      "clientName": "Gianina",
+      "caseName": "Howden",
+      "reportDate": "7/16/2019",
+      "expenses": 138,
+      "totalTime": 8
+    },
+    {
+      "id": 207,
+      "clientName": "Jabez",
+      "caseName": "McSperron",
+      "reportDate": "8/8/2019",
+      "expenses": 263,
+      "totalTime": 8
+    },
+    {
+      "id": 208,
+      "clientName": "Oralla",
+      "caseName": "Mackness",
+      "reportDate": "8/9/2019",
+      "expenses": 70,
+      "totalTime": 13
+    },
+    {
+      "id": 209,
+      "clientName": "Chandal",
+      "caseName": "Adams",
+      "reportDate": "7/28/2019",
+      "expenses": 67,
+      "totalTime": 8
+    },
+    {
+      "id": 210,
+      "clientName": "Alford",
+      "caseName": "Sobczak",
+      "reportDate": "8/22/2019",
+      "expenses": 140,
+      "totalTime": 9
+    },
+    {
+      "id": 211,
+      "clientName": "Virgie",
+      "caseName": "Rissen",
+      "reportDate": "7/28/2019",
+      "expenses": 292,
+      "totalTime": 4
+    },
+    {
+      "id": 212,
+      "clientName": "Celestyn",
+      "caseName": "Minillo",
+      "reportDate": "7/16/2019",
+      "expenses": 109,
+      "totalTime": 2
+    },
+    {
+      "id": 213,
+      "clientName": "Flss",
+      "caseName": "Bessom",
+      "reportDate": "7/2/2019",
+      "expenses": 77,
+      "totalTime": 13
+    },
+    {
+      "id": 214,
+      "clientName": "Constantin",
+      "caseName": "Biggans",
+      "reportDate": "9/12/2019",
+      "expenses": 79,
+      "totalTime": 11
+    },
+    {
+      "id": 215,
+      "clientName": "Lelah",
+      "caseName": "Spridgeon",
+      "reportDate": "7/12/2019",
+      "expenses": 235,
+      "totalTime": 10
+    },
+    {
+      "id": 216,
+      "clientName": "Leif",
+      "caseName": "Thursby",
+      "reportDate": "7/20/2019",
+      "expenses": 167,
+      "totalTime": 13
+    },
+    {
+      "id": 217,
+      "clientName": "Marlee",
+      "caseName": "Bugdale",
+      "reportDate": "7/29/2019",
+      "expenses": 15,
+      "totalTime": 8
+    },
+    {
+      "id": 218,
+      "clientName": "Locke",
+      "caseName": "Zannolli",
+      "reportDate": "8/11/2019",
+      "expenses": 170,
+      "totalTime": 1
+    },
+    {
+      "id": 219,
+      "clientName": "Briano",
+      "caseName": "Sandercock",
+      "reportDate": "7/16/2019",
+      "expenses": 70,
+      "totalTime": 6
+    },
+    {
+      "id": 220,
+      "clientName": "Alvis",
+      "caseName": "Leech",
+      "reportDate": "8/5/2019",
+      "expenses": 50,
+      "totalTime": 7
+    },
+    {
+      "id": 221,
+      "clientName": "Erica",
+      "caseName": "Hallbord",
+      "reportDate": "8/8/2019",
+      "expenses": 69,
+      "totalTime": 5
+    },
+    {
+      "id": 222,
+      "clientName": "Farris",
+      "caseName": "Goodnow",
+      "reportDate": "8/8/2019",
+      "expenses": 267,
+      "totalTime": 11
+    },
+    {
+      "id": 223,
+      "clientName": "Gerrie",
+      "caseName": "Blenkinsop",
+      "reportDate": "8/17/2019",
+      "expenses": 143,
+      "totalTime": 1
+    },
+    {
+      "id": 224,
+      "clientName": "Padriac",
+      "caseName": "Rosenzveig",
+      "reportDate": "8/19/2019",
+      "expenses": 173,
+      "totalTime": 1
+    },
+    {
+      "id": 225,
+      "clientName": "Winifred",
+      "caseName": "Biddlestone",
+      "reportDate": "7/20/2019",
+      "expenses": 3,
+      "totalTime": 3
+    },
+    {
+      "id": 226,
+      "clientName": "Marleen",
+      "caseName": "Camis",
+      "reportDate": "9/2/2019",
+      "expenses": 52,
+      "totalTime": 1
+    },
+    {
+      "id": 227,
+      "clientName": "Artemus",
+      "caseName": "Middlemist",
+      "reportDate": "9/4/2019",
+      "expenses": 1,
+      "totalTime": 1
+    },
+    {
+      "id": 228,
+      "clientName": "Mercie",
+      "caseName": "Ronayne",
+      "reportDate": "9/14/2019",
+      "expenses": 291,
+      "totalTime": 13
+    },
+    {
+      "id": 229,
+      "clientName": "Karyn",
+      "caseName": "Mayzes",
+      "reportDate": "7/23/2019",
+      "expenses": 33,
+      "totalTime": 12
+    },
+    {
+      "id": 230,
+      "clientName": "Dulcie",
+      "caseName": "Yoselevitch",
+      "reportDate": "9/22/2019",
+      "expenses": 78,
+      "totalTime": 11
+    },
+    {
+      "id": 231,
+      "clientName": "Brockie",
+      "caseName": "Element",
+      "reportDate": "9/23/2019",
+      "expenses": 217,
+      "totalTime": 11
+    },
+    {
+      "id": 232,
+      "clientName": "Carter",
+      "caseName": "Lilford",
+      "reportDate": "8/5/2019",
+      "expenses": 33,
+      "totalTime": 2
+    },
+    {
+      "id": 233,
+      "clientName": "Jerry",
+      "caseName": "Faircliff",
+      "reportDate": "7/1/2019",
+      "expenses": 51,
+      "totalTime": 6
+    },
+    {
+      "id": 234,
+      "clientName": "Marigold",
+      "caseName": "Grzegorzewski",
+      "reportDate": "7/6/2019",
+      "expenses": 156,
+      "totalTime": 5
+    },
+    {
+      "id": 235,
+      "clientName": "Erroll",
+      "caseName": "Brabyn",
+      "reportDate": "8/11/2019",
+      "expenses": 24,
+      "totalTime": 4
+    },
+    {
+      "id": 236,
+      "clientName": "Piotr",
+      "caseName": "Gutans",
+      "reportDate": "9/11/2019",
+      "expenses": 151,
+      "totalTime": 8
+    },
+    {
+      "id": 237,
+      "clientName": "Nat",
+      "caseName": "Steffans",
+      "reportDate": "8/14/2019",
+      "expenses": 184,
+      "totalTime": 10
+    },
+    {
+      "id": 238,
+      "clientName": "Debbie",
+      "caseName": "Cruickshank",
+      "reportDate": "8/20/2019",
+      "expenses": 106,
+      "totalTime": 6
+    },
+    {
+      "id": 239,
+      "clientName": "Rina",
+      "caseName": "Syplus",
+      "reportDate": "9/19/2019",
+      "expenses": 43,
+      "totalTime": 2
+    },
+    {
+      "id": 240,
+      "clientName": "Zacharia",
+      "caseName": "Alyutin",
+      "reportDate": "9/17/2019",
+      "expenses": 17,
+      "totalTime": 13
+    },
+    {
+      "id": 241,
+      "clientName": "Harold",
+      "caseName": "Basili",
+      "reportDate": "7/19/2019",
+      "expenses": 270,
+      "totalTime": 7
+    },
+    {
+      "id": 242,
+      "clientName": "Hilary",
+      "caseName": "Reoch",
+      "reportDate": "9/26/2019",
+      "expenses": 72,
+      "totalTime": 1
+    },
+    {
+      "id": 243,
+      "clientName": "Mikkel",
+      "caseName": "Cancellario",
+      "reportDate": "7/30/2019",
+      "expenses": 147,
+      "totalTime": 5
+    },
+    {
+      "id": 244,
+      "clientName": "Caralie",
+      "caseName": "Cherrie",
+      "reportDate": "7/15/2019",
+      "expenses": 122,
+      "totalTime": 8
+    },
+    {
+      "id": 245,
+      "clientName": "Mariya",
+      "caseName": "Bilbey",
+      "reportDate": "7/24/2019",
+      "expenses": 186,
+      "totalTime": 12
+    },
+    {
+      "id": 246,
+      "clientName": "Sloane",
+      "caseName": "Castellani",
+      "reportDate": "8/27/2019",
+      "expenses": 264,
+      "totalTime": 6
+    },
+    {
+      "id": 247,
+      "clientName": "Teodorico",
+      "caseName": "Adnam",
+      "reportDate": "7/24/2019",
+      "expenses": 249,
+      "totalTime": 13
+    },
+    {
+      "id": 248,
+      "clientName": "Urban",
+      "caseName": "Paute",
+      "reportDate": "9/25/2019",
+      "expenses": 168,
+      "totalTime": 3
+    },
+    {
+      "id": 249,
+      "clientName": "Thoma",
+      "caseName": "Colleymore",
+      "reportDate": "9/22/2019",
+      "expenses": 35,
+      "totalTime": 1
+    },
+    {
+      "id": 250,
+      "clientName": "Honoria",
+      "caseName": "Habishaw",
+      "reportDate": "8/31/2019",
+      "expenses": 129,
+      "totalTime": 7
+    }
+  ],
+  "settings": {
+    "daysOff": [7, 6],
+    "lang": "en"
+  }
+}
