@@ -247,4 +247,4 @@
     {"id":247,"clientName":"Teodorico","caseName":"Adnam","reportDate":"7/24/2019","expenses":249,"totalTime":13},
     {"id":248,"clientName":"Urban","caseName":"Paute","reportDate":"9/25/2019","expenses":168,"totalTime":3},
     {"id":249,"clientName":"Thoma","caseName":"Colleymore","reportDate":"9/22/2019","expenses":35,"totalTime":1},
-    {"id":250,"clientName":"Honoria","caseName":"Habishaw","reportDate":"8/31/2019","expenses":129,"totalTime":7}]
+    {"id":250,"clientName":"Honoria" ,"caseName":"Habishaw","reportDate":"8/31/2019","expenses":129,"totalTime":7}]
