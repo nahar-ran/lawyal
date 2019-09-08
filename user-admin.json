@@ -1,0 +1,8 @@
+{
+	"id": 1,
+	"name": "admin",
+	"email": "admin@gmail.com",
+	"role": "admin",
+	"default_time": "12:30",
+	"imgUrl": "assets/img/nav-bar/profile.png"
+}
