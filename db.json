@@ -1,11 +1,13 @@
+
 {
-    "reports":
-[{"id":1,"clientName":"Alanson","caseName":"Ludwikiewicz","reportDate":"8/26/2019","expenses":83,"totalTime":10},
+    "reports":[
+    {"id":1,"clientName":"Alanson","caseName":"Ludwikiewicz","reportDate":"8/26/2019","expenses":83,"totalTime":10},
     {"id":2,"clientName":"Hyacinthie","caseName":"Yeoland","reportDate":"8/1/2019","expenses":220,"totalTime":12},
     {"id":3,"clientName":"Mikael","caseName":"Gwinnett","reportDate":"8/7/2019","expenses":69,"totalTime":9},
     {"id":4,"clientName":"Bern","caseName":"Diggell","reportDate":"8/2/2019","expenses":156,"totalTime":5},
     {"id":5,"clientName":"Gretna","caseName":"Balam","reportDate":"8/7/2019","expenses":62,"totalTime":5},
     {"id":6,"clientName":"Hamlin","caseName":"Sapsed","reportDate":"7/16/2019","expenses":211,"totalTime":3},
     {"id":7,"clientName":"Shayne","caseName":"Sperwell","reportDate":"9/21/2019","expenses":18,"totalTime":9},
-    {"id":8,"clientName":"Oralla","caseName":"Wye","reportDate":"8/26/2019","expenses":75,"totalTime":11}]
+    {"id":8,"clientName":"Oralla","caseName":"Wye","reportDate":"8/26/2019","expenses":75,"totalTime":11}
+    ]
 }
